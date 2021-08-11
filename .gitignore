@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+
+__pycache__/
+.ipynb_checkpoints/
+
+sample_data/
+spark-2.4.8-bin-hadoop2.7.tgz
